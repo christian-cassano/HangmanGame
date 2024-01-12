@@ -41,10 +41,12 @@ Make sure you have the following installed:
 
 Clone the repository to your local machine:
 
+(if needed: please replace pip command based on your python package manager )
+
 ```bash
 git clone https://github.com/christian-cassano/hangman970.git
 cd hangman-game
-pip install random
+pip install random 
 ```
  ## How to Play
 
@@ -53,14 +55,13 @@ pip install random
 
 ## File Stracture
 
-    hangman970/
+    HangmanGame/
+│   README.md
 │   milestone_Template.py
 │   milestone_2.py
 │   milestone_3.py
 │   milestone_4.py
 │   milestone_5.py
-│   README.md
-│   .gitignore
 
 ## Contributing
 
