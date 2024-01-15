@@ -44,7 +44,7 @@ Clone the repository to your local machine:
 (if needed: please replace pip command based on your python package manager )
 
 ```bash
-git clone https://github.com/christian-cassano/hangman970.git
+git clone https://github.com/christian-cassano/HangmanGame.git
 cd hangman-game
 pip install random 
 ```
